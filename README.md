@@ -1,4 +1,4 @@
-# web-application-security
+# Web Application Security - Reports
 
 This repo is where I keep my notes and write ups while learning Web Application Security through hands on labs.
 
